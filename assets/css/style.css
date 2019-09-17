@@ -60,6 +60,11 @@ h1, h2 {
   text-decoration: none;
 }
 
+#nav a:hover {
+  background-color: #777777;
+  color: #ffffff;
+}
+
 #nav-column {
   padding: 0;
 }
