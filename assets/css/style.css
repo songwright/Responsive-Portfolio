@@ -95,6 +95,15 @@ h1, h2 {
   padding: 0 15px 15px 15px;
 }
 
+#card-row {
+  margin: 0;
+}
+
+#card-body {
+  background-color: #4aaaa5;
+  color: #ffffff;
+}
+
 /* Media Queries */
 
 @media screen and (max-width: 768px) {
