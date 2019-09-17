@@ -68,3 +68,28 @@ h1, h2 {
 #nav-column {
   padding: 0;
 }
+
+/*--- Main Content ---*/
+
+#main-container {
+  padding: 0;
+}
+
+#main-content {
+  padding: 28px;
+  margin: 28px 0;
+  background-color: #ffffff;
+}
+
+#top-row {
+  padding: 0 0 28px 0;
+  border-style: solid;
+  border-width: 0 0 3px 0;
+  border-color: #cccccc;
+  margin: 0 0 28px 0;
+  color: #4aaaa5;
+}
+
+#about-img {
+  padding: 0 15px 15px 15px;
+}
